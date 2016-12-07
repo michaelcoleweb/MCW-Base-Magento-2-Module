@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
     <menu>
-        <add id="MCW_Base::modules" title="MCW" module="MCW_Base" sortOrder="75" resource="MCW_Base::modules"/>
+        <add id="MCW_Base::modules" title="MCW" module="MCW_Base" sortOrder="79" resource="MCW_Base::modules"/>
     </menu>
 </config>
